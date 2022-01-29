@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/leiamagee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leiamagee" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/deimos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deimos" height="30" width="40" /></a>
+<a href="https://twitter.com/leimagee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leiamagee" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCj-O5eRwY6cEpSSpMRzuhJw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deimos" height="30" width="40" /></a>
 <a href="https://discord.gg/vY2eRNqg6P" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vY2eRNqg6P" height="30" width="40" /></a>
 </p>
 

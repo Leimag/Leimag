@@ -1,11 +1,8 @@
 <h1 align="center">Hello! I'm Leimag</h1>
-<h3 align="center">A beginner python developer from Indonesia!</h3>
+<h3 align="center">Bored Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leimag&label=Profile%20views&color=0e75b6&style=flat" alt="leimag" /> </p>
 
-- 📫 How to reach me **sheeshdeimos@gmail.com**
-
-- ⚡ Fun fact **I mostly spend 2 hours figuring out a simple error in Python.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
